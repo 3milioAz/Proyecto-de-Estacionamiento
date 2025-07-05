@@ -2,6 +2,10 @@
 
 [Captura de la Interfaz](imagenes/interfaz.png)
 
+## 📩 Descarga de Archivos
+
+El primer paso a seguir es descargar el archivo comprimido `proyecto_estacionamiento.zip` y descomprimirlo lo cual nos dara la carpeta que contiene los archivos necesarios para ejeutar el proyecto.
+
 ## 💻 Uso de entorno virtual (opcional)
 
 Se recomienda usar un entorno virtual de Python (venv) para no instalar las librerias necesarias para el proyecto en tu python principal y provocar problemas mas tarde.  
